@@ -1,4 +1,4 @@
-# Fruit store
+# Food store! Building a Food Store using Redux and Angular
 State management in anuglar applications using ngrx/store
 
 ## Prerequisites
